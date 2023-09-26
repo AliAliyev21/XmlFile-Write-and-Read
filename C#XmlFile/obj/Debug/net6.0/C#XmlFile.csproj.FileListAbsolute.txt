@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\bin\Debug\net6.0\C#XmlFile.exe
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\bin\Debug\net6.0\C#XmlFile.deps.json
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\bin\Debug\net6.0\C#XmlFile.runtimeconfig.json
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\bin\Debug\net6.0\C#XmlFile.dll
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\bin\Debug\net6.0\C#XmlFile.pdb
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\obj\Debug\net6.0\C#XmlFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\obj\Debug\net6.0\C#XmlFile.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\obj\Debug\net6.0\C#XmlFile.AssemblyInfo.cs
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\obj\Debug\net6.0\C#XmlFile.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\obj\Debug\net6.0\C#XmlFile.dll
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\obj\Debug\net6.0\refint\C#XmlFile.dll
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\obj\Debug\net6.0\C#XmlFile.pdb
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\obj\Debug\net6.0\C#XmlFile.genruntimeconfig.cache
+C:\Users\user\source\repos\C#XmlFile\C#XmlFile\obj\Debug\net6.0\ref\C#XmlFile.dll
